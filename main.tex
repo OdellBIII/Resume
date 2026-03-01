@@ -139,24 +139,6 @@
       {Bachelor of Science in Computer Science}{Pittsburgh, Pennsylvania}
   \resumeSubHeadingListEnd
 
-%------RELEVANT COURSEWORK-------
-\section{Relevant Coursework}
-    %\resumeSubHeadingListStart
-        \begin{multicols}{3}
-            \begin{itemize}[itemsep=-5pt, parsep=3pt]
-                \item\small Algorithms \& Data Structures
-                \item Parallel Analysis
-                \item Functional Programming
-                \item Computer Systems
-                \item Parallel Computing
-                \item Data Science
-                \item Machine Learning
-                \item Computer Architecture
-                \item Cybersecurity
-            \end{itemize}
-        \end{multicols}
-        \vspace*{2.0\multicolsep}
-    %\resumeSubHeadingListEnd
 
 
 %-----------EXPERIENCE-----------
@@ -164,7 +146,16 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Oracle Cloud Infrastructure}{July 2022 -- Present}
+      {Polymer Labs}{August 2024 -- February 2026}
+      {Protocol Engineer}{New York, New York}
+      \resumeItemListStart
+        \resumeItem{\textbf{Infra-bot (Go):} Built and operated an internal monitoring and automation service for balance management, cross-chain health checks, and system invariants; deployed on Kubernetes and prevented underfunded addresses from halting chain operations and supported after-hours incident response.}
+        \resumeItem{\textbf{RPCX (OpenResty/Lua):} Co-developed a high-throughput RPC proxy and caching layer handling hundreds of req/s in production (stress-tested to thousands), reducing redundant RPC calls by orders of magnitude and saving thousands of dollars monthly; investigated and remediated failed upstreams to maintain protocol uptime.}
+        \resumeItem{\textbf{Chain Expansion:} Led technical onboarding for 20+ blockchain networks across testnet and mainnet, including non-standard architectures; defined integration strategies and recovered failed cross-chain proofs during incidents to ensure reliable cross-chain execution.}
+        \resumeItem{\textbf{x402 Protocol (Cloudflare Workers):} Implemented the company's first production x402 facilitator prototype and maintained facilitator/gateway services, enabling existing APIs to accept x402 payments via a drop-in gateway.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Oracle Cloud Infrastructure}{July 2022 -- August 2024}
       {Software Engineer II}{Seattle, Washington}
       \resumeItemListStart
         \resumeItem{Optimized virtual machine launch times by 60\%}
@@ -182,15 +173,6 @@
         \resumeItem{Advanced the security of the codebase by resolving vulnerabilities}
     \resumeItemListEnd
 
-    \resumeSubheading
-      {VMWare}{May 2020 -- August 2020}
-      {Software Engineer Intern}{Remote}
-      \resumeItemListStart
-        \resumeItem{Constructed a potential IoT device classification system in Python that was incorporated into Nyansa’s product}
-        \resumeItem{Leveraged ElasticSearch, Python, and Ruby to classify potential IoT devices on Nyansa monitored networks}
-        \resumeItem{Automated IoT device rule creation by creating benchmarks for what makes a good IoT cluster}
-    \resumeItemListEnd
-    
   \resumeSubHeadingListEnd
 \vspace{-16pt}
 
@@ -221,14 +203,6 @@
             \resumeItem{Designed a web interface using HTML, CSS, and Javascript and hosted it on Heroku}
             \resumeItem{Developed the smart contract using Solidity and tested it using Truffle}
           \resumeItemListEnd 
-          \vspace{-13pt}
-          \resumeProjectHeading
-          {\textbf{Reddit to Video Converter} $|$ \emph{Selenium, Python, NodeJS}}{December 2021}
-          \resumeItemListStart
-            \resumeItem{Developed an automation tool which scrapes a subreddit for its most popular post and then converts it to a video with voiceover audio}
-            \resumeItem{Utilized Selenium for web scraping and navigation}
-            \resumeItem{Parsed web data and assembled the video with NodeJS and Python}
-          \resumeItemListEnd 
     \resumeSubHeadingListEnd
 \vspace{-15pt}
 
@@ -238,9 +212,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, Java, C, C++, HTML, CSS, JavaScript, Solidity, SQL, Bash} \\
+     \textbf{Languages}{: Python, Go, Java, C, C++, JavaScript, Lua, Solidity, SQL, Bash} \\
      \textbf{Developer Tools}{: Jira, Github, VS Code, Intellij, Vim, AWS, Google Cloud Platform, Heroku, DigitalOcean}\\
-     \textbf{Technologies/Frameworks}{: Maven, React, Linux, Docker, Git, WordPress, Selenium, Truffle} \\
+     \textbf{Technologies/Frameworks}{: OpenResty, Cloudflare Workers, Kubernetes, React, Linux, Docker, Git, Selenium, Truffle} \\
     }}
  \end{itemize}
  \vspace{-16pt}
