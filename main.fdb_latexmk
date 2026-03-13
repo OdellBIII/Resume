@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1772391266 "/Users/odellblackmoniii/Documents/Work/Resume/main.tex" "main.pdf" "main" 1772391267 0
-  "/Users/odellblackmoniii/Documents/Work/Resume/main.tex" 1772391151 10238 dc73f11b7009a59e0dfb1ac03552c4b0 ""
+["pdflatex"] 1773431983 "/Users/odellblackmoniii/Documents/Work/Resume/main.tex" "main.pdf" "main" 1773431983 0
+  "/Users/odellblackmoniii/Documents/Work/Resume/main.tex" 1773431982 10786 52e88906fe71d5bbd51ffde46d230c3d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -102,9 +102,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698889797 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698889790 7883460 e28ef31147f2a7789f9353a8b26749ac ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1772391267 1065 756d84d9150b02d5f08aee1660983b1c "pdflatex"
-  "main.out" 1772391267 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "main.tex" 1772391151 10238 dc73f11b7009a59e0dfb1ac03552c4b0 ""
+  "main.aux" 1773431983 1065 756d84d9150b02d5f08aee1660983b1c "pdflatex"
+  "main.out" 1773431983 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "main.tex" 1773431982 10786 52e88906fe71d5bbd51ffde46d230c3d ""
   (generated)
   "main.aux"
   "main.log"
